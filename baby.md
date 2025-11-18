@@ -87,8 +87,16 @@ The Vista is perfect as long as you don't need to fold it or lift it up. The sus
 
 ## Feeding
 
-* Eletric Kettle, eg [EKG Stagg](https://fellowproducts.com/products/stagg-ekg-electric-pour-over-kettle?variant=31212442583140): if you have a formula-fed baby, you must mix the formula by boiling water, letting that cool to 70C, then mixing the formula powder, and then letting that cool to 40C before baby can drink it.
-* [Baby Brezza Baby Formula Dispenser](https://babybrezza.com/products/formula-pro-advanced-wifi-baby-formula-dispenser): if you have a formula-fed baby, and if your baby is old enough to drink  
+* Eletric Kettle: if you have a formula-fed baby, you must mix the formula by boiling water, letting that cool to 70C, then mixing the formula powder, and then letting that cool to 40C before baby can drink it. This has to be done to kill spores that might be dangerous to your newborn. Getting an electric kettle speeds up one part of this process.
+* [Baby Brezza Baby Formula Dispenser](https://babybrezza.com/products/formula-pro-advanced-wifi-baby-formula-dispenser): if you have a formula-fed baby, and if your baby is old enough to have the stomach acids that allows them to skip the sterilization-mixing process, a formula dispenser is a god-send. It makes baby bottles almost instantly, and if you have the discipline to put in a new bottle when taking the filled one out, the wifi enabled model lets you fill a bottle as you're walking across the apartment.
+
+### Bottles
+
+I like the [Pigeon Bottles](https://www.pigeonstore.com/products/ppsu-wide-neck-baby-bottle-2).
+
+"Anti-colic" features on bottles are basically a lie - doctors will say that the research says that colic has nothing to do with babies getting air into their stomaches while drinking milk or formula. Anti-colic features do help a baby drink from a bottle, but they do so via allowing air in via a route other than the center of the nipple.
+
+Additionally, the recommendation was to prefer a slower-flowing nipple, and to only upgrade nipple sizes when it was becoming apparent that a bigger flow was necessary. Lot's of smaller bottles over the day was better than fewer big bottles.
 
 ## Other
 
