@@ -87,20 +87,37 @@ The Vista is perfect as long as you don't need to fold it or lift it up. The sus
 
 ## Feeding
 
-* Eletric Kettle: if you have a formula-fed baby, you must mix the formula by boiling water, letting that cool to 70C, then mixing the formula powder, and then letting that cool to 40C before baby can drink it. This has to be done to kill spores that might be dangerous to your newborn. Getting an electric kettle speeds up one part of this process.
-* [Baby Brezza Baby Formula Dispenser](https://babybrezza.com/products/formula-pro-advanced-wifi-baby-formula-dispenser): if you have a formula-fed baby, and if your baby is old enough to have the stomach acids that allows them to skip the sterilization-mixing process, a formula dispenser is a god-send. It makes baby bottles almost instantly, and if you have the discipline to put in a new bottle when taking the filled one out, the wifi enabled model lets you fill a bottle as you're walking across the apartment.
+### Formula
+If you have a formula-fed baby, you must [mix the formula by boiling water, letting that cool to 70C, then mixing the formula powder, and then letting that cool to 40C before baby can drink it](https://www.cdc.gov/infant-toddler-nutrition/formula-feeding/preparation-and-storage.html) ([The FDA gives different advice on proper formula mixing](https://www.fda.gov/food/buy-store-serve-safe-food/handling-infant-formula-safely-what-you-need-know)). This has to be done to kill Cronobacter spores that might be dangerous to your newborn. Getting an electric kettle speeds up one part of this process. Get any electric kettle - this is your opportunity to buy that EKG Stagg kettle that you've always wanted.
+
+[Mason jar pitchers](https://www.amazon.com/dp/B0D25RRRKY) were the perfect solution for pre-mixing formula.
+
+If you formula feed, buy the [Baby Brezza Baby Formula Dispenser](https://babybrezza.com/products/formula-pro-advanced-wifi-baby-formula-dispenser): if you have a formula-fed baby, and if your baby is old enough to have the stomach acids that allows them to skip the sterilization-mixing process, a formula dispenser is a god-send. It makes baby bottles almost instantly, and if you have the discipline to put in a new bottle when taking the filled one out, the wifi enabled model lets you fill a bottle as you're walking across the apartment.
+
+If you formula-feed, keeping your formula-making area clean will be an important concern. Take a look at the bottle washer to keep everything as clean as possible.
 
 ### Bottles
 
-I like the [Pigeon Bottles](https://www.pigeonstore.com/products/ppsu-wide-neck-baby-bottle-2).
+I like the [Pigeon Bottles](https://www.pigeonstore.com/products/ppsu-wide-neck-baby-bottle-2), but my recommendation is to just buy lots and lots of different brands of bottles, and then use whichever one works.
 
-"Anti-colic" features on bottles are basically a lie - doctors will say that the research says that colic has nothing to do with babies getting air into their stomaches while drinking milk or formula. Anti-colic features do help a baby drink from a bottle, but they do so via allowing air in via a route other than the center of the nipple.
+"Anti-colic" features on bottles are basically a lie - doctors will say that the research says that colic has nothing to do with babies getting air into their stomaches while drinking milk or formula. Anti-colic features do help a baby drink from a bottle, but they do so via allowing air in via a route other than the center of the nipple. Anti-colic features also often take the form of straws or tubes inside the bottle - these are very annoying to clean, and the nipple collapses more easily if the full system isn't being used. I strongly prefer to avoid those bottle entirely if possible.
+
+I found that holding baby semi-upright was necessary to minimize spit-up, at which point, it was sufficient for the bottle to have a side hole for air to enter the bottle.
 
 Additionally, the recommendation was to prefer a slower-flowing nipple, and to only upgrade nipple sizes when it was becoming apparent that a bigger flow was necessary. Lot's of smaller bottles over the day was better than fewer big bottles.
 
+Buy a bottle washer, not a sterilizer, like the [Baby Brezza Bottle Washer Pro](https://babybrezza.com/products/bottle-washer-pro). I bought a sterilizer, and did not know that the bottler washer existed until my baby's bottle could just go in the dish washer. You will be washing bottles multiple times per day, so having a separate appliance, where you can just leave clean bottles in them, is fully worth the cost. With the sterilizer, the bottle must be washed first, which means hand washed given the frequency at which bottles need to be cleaned. You could stick to using a dish washer with the sanitize setting, or not bothering, but the piece of mind from having clean and sterilized bottles is worth the cost. 
+
 ## Other
 
+### Changing Pads
 * Changing pad for on-the-go: [Skip Hop Changing Pad](https://www.amazon.com/dp/B071WDDBLM?th=1) - no padding, but can carry daipers, wipes and creams.
 * At home changing pads - I've have not found the perfect changing pad, but the least bad one is [Keekaroo Peanut Changer](https://www.amazon.com/dp/B00KSW970Y).
   * I want one that gets attached to the table, and those don't seem to exist. Instead you can choose between if the strap is attached to the table or attached to the changing pad. If the strap is attached to the changing pad, baby can try to flip the changing pad off the table or drawer that it's on (which is not okay). If the strap is attached to the table, the changing pad will shift under the strap, which is slightly better, but still suboptimal.
   * You will be choosing between having a soft changing pad or having one that's easy to clean
+ 
+### Crib
+
+[Cribs are regulated](https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1219). Read up on the latest safety standards for cribs, and then buy a crib accordingly. I bought the [Nestig Wave Crib](https://www.nestig.com/products/the-wave-crib), and it has been great for expandability as my baby grew.
+
+Try renting a [SNOO Smart Sleeper](https://www.happiestbaby.com/products/snoo-rental). It's a smart crib that automatically shushes and rocks your baby, but requires that your baby is swaddled using their sleep sacks. It worked great for our baby, but not all babies love it in the same way. Therefore, rent instead of buy. The SNOO is based on the ideas in [The Happiest Baby on the Block by Dr Harvey Karp](https://www.amazon.com/dp/0553393235), and reading the book was helpful.
