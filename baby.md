@@ -84,3 +84,7 @@ I recommend the [Uppababy Vista](https://uppababy.com/strollers/full-size/vista-
 The Minu is basically the best travel stroller. It's light, and has a one-handed, three-part fold. If the suspension was better and the cargo capacity was bigger, I would have been tempted to not buying another stroller.
 
 The Vista is perfect as long as you don't need to fold it or lift it up. The suspension is good, but cargo capacity is phenominal. Our Vista never gets folded up, which is a consideration for space.
+
+## Other
+
+* Changing pad for on-the-go: [Skip Hop Changing Pad](https://www.amazon.com/dp/B071WDDBLM?th=1) - no padding, but can carry the necessities.
