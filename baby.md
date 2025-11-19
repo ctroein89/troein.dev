@@ -64,16 +64,26 @@ Two-part folder kinda sucks, especially if it needs two hands to do so. A stroll
 I recommend having a double stroller, even for one child, provided the seats are arranged in-line with the direction of the stroller (as opposed to having the seats side-by-side). The reason why is adding attachments for the baby car seat, so that the car seat is attached to the stroller while the baby is sitting comfortably in the main seat. The handful of times where we did this, it was super helpful (although, it also looks extremely goofy).
 
 ### Attachments and Cup Holders
-I recommend buying a bunch of attachments for the stroller, especially cupholders. It sounds absurd, but 3 cupholders is the minimum that I would recommend. Every cupholder or stroller bag that you add will get filled up with stuff. Before you know it, you have 5 cups holders and you're still stuck carrying a cup.
+I recommend buying a bunch of attachments for the stroller, especially cupholders. It sounds absurd, but 3 cupholders is the minimum that I would recommend. Every cupholder or stroller carry-all that you add will get filled up with stuff. Before you know it, you have 5 cups holders and you're still stuck carrying a coffee cup with one hand.
 
 Importantly, cargo capacity is a big factor in using a stroller. Our Vista is basically always full of empty tote bags, extra blankets and a baby carrier. It's the shopping cart when walking home from the grocery store. A bigger cargo capacity is better.
 
+The Uppababy bassinet I purchased was a waste - we exclusively used it to hold a changing pad in our apartment. It didn't feel safe to take our baby near any roads or hills in that bassinet, since she wasn't secured in it. It's such a shame, because it felt like such a good idea, despite people telling us that we'd never use the bassinet.
+
 ### What I Bought
-I recommend the [Uppababy Minu](https://uppababy.com/strollers/lightweight/minu-v3/) and the [Uppababy Vista](https://uppababy.com/strollers/full-size/vista-v3/).
+I settled on buying an Uppababy stroller early in my search. I had seriously considered Bugaboo strollers - my family had at the time access to a discount on Bugaboo strollers, but I wasn't particularly impression by the wheel locking mechanism or the suspension on their 5 year old stroller (arguably this would not have been issues with a modern Bugaboo). I generally didn't like the folding mechanisms on Nuna strollers. Since I knew we would use the stroller a lot in New York, cost savings from a cheaper stroller didn't feel worth the lesser features. I see a lot of Uppababy strollers around me, and I've seen Uppababy strollers survive, so it felt really easy to decide on Uppababy.
 
-The Minu is basically the best travel stroller. It's light, and has a one-handed, three-part fold. If the suspension was better and the cargo capacity was bigger, I would have been tempted to not buying another stroller.
+I recommend the [Uppababy Minu](https://uppababy.com/strollers/lightweight/minu-v3/) and the [Uppababy Vista](https://uppababy.com/strollers/full-size/vista-v3/). Based on my research, it seems like all of the major stroller companies have strollers in these categories, so even if I picked Uppababy strollers, the reason for why I picked these strollers should carry over to other brands. These strollers also cover both extremes for our needs, so we have the right stroller for what we're going to do.
 
-The Vista is perfect as long as you don't need to fold it or lift it up. The suspension is good, but cargo capacity is phenominal. The seating is great, and it's large enough that we could attach the car seat as an extra seat. Our Vista never gets folded up, which is a consideration for space.
+The Minu is basically the best travel stroller. It's light, and has a one-handed, three-part fold. If the suspension was better and the cargo capacity was bigger, I would have been tempted to not buying another stroller. The downside of the Minu is that it does not support the Rumble seat of the Vista and Cruz, so the seat is built for an older infant.
+
+The Vista is perfect as long as you don't need to fold it or lift it up. The suspension is good, but cargo capacity is phenominal. The seating is great, and it's large enough that we could attach the car seat as an extra seat. Our Vista almost never gets folded up, and rarely gets emptied, which is a consideration for apartment space. If it does get folded, it's exclusively my job to lift and move it.
+
+The Uppababy Cruz was a contentor - it's the one-child only variant of the Vista. The newest Cruz adds extra lay-flat features that might replace the Uppababy bassinet, in which case the Cruz is the cheaper version of a one-baby Vista. Given that we wanted something that could also carry the car seat, it didn't make sense for us to buy the Cruz.
+
+I did not consider the Uppababy Ridge, since neither my wife nor I jog or run. I understood the Uppababy G Luxe as a 0.4 lb lighter competitor to the Minu, but without the ability to attach car seats. It would have looked weird to have only 1 baby in the Minu Duo, which is a 2-seater stroller.
+
+Uppababy does not make a wagon stroller, but for an toddler who can sit up, a wagon has even more capacity than the Uppababy Vista.
 
 ## Feeding
 ### Formula
