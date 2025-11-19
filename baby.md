@@ -53,7 +53,7 @@ For picking a "light" stroller, try picking it up once folded. In my experience,
 
 However, a heavy stroller will have more inertia, and therefore be a more comfortable ride. The suspension seems to work better when the stroller has more mass.
 
-We started with a 17lb travel stroller, which worked great for carrying it up and down the stairs in our our walk-up apartment. But when we went outside of our immediate area, it became very clear that the stroller's suspension as insufficient for the state the of the sidewalks we were walking over. And when we moved to an elevator building, we mostly stopped using the lightweight stroller.
+We started with a 17lb travel stroller, which worked great for carrying it up and down the stairs in our walk-up apartment. But when we went outside of our immediate area, it became very clear that the stroller's suspension as insufficient for the state the of the sidewalks we were walking over. And when we moved to an elevator building, we mostly stopped using the lightweight stroller.
 
 ### Folding mechanism
 One-handed, three-part folding is amazing. Being able to hold your child with 1 hand, and fold the stroller with another, is great. But to make that truely work, you need the stroller to fold into thirds, so that the stroller handle is still in the air (ie, you don't have to bend to the ground to complete the fold). 
@@ -88,7 +88,7 @@ If you formula-feed, keeping your formula-making area clean will be an important
 ### Bottles
 I like the [Pigeon Bottles](https://www.pigeonstore.com/products/ppsu-wide-neck-baby-bottle-2), but my recommendation is to just buy lots and lots of different brands of bottles, and then use whichever one works.
 
-"Anti-colic" features on bottles are basically a lie - doctors will say that the research says that colic has nothing to do with babies getting air into their stomaches while drinking milk or formula. Anti-colic features do help a baby drink from a bottle, but they do so via allowing air in via a route other than the center of the nipple. Anti-colic features also often take the form of straws or tubes inside the bottle - these are very annoying to clean, and the nipple collapses more easily if the full system isn't being used. I strongly prefer to avoid those bottle entirely if possible.
+"Anti-colic" features on bottles are basically a lie - doctors (source, The Happiest Baby on the Block by Dr Harvey Karp, see below) will say that the research says that colic has nothing to do with babies getting air into their stomaches while drinking milk or formula. Anti-colic features do help a baby drink from a bottle, but they do so via allowing air in via a route other than the center of the nipple. Anti-colic features also often take the form of straws or tubes inside the bottle - these are very annoying to clean, and the nipple collapses more easily if the full system isn't being used. I strongly prefer to avoid those bottle entirely if possible.
 
 I found that holding baby semi-upright was necessary to minimize spit-up, at which point, it was sufficient for the bottle to have a side hole for air to enter the bottle.
 
@@ -97,13 +97,66 @@ Additionally, the recommendation was to prefer a slower-flowing nipple, and to o
 Buy a bottle washer, not a sterilizer, like the [Baby Brezza Bottle Washer Pro](https://babybrezza.com/products/bottle-washer-pro). I bought a sterilizer, and did not know that the bottler washer existed until my baby's bottle could just go in the dish washer. You will be washing bottles multiple times per day, so having a separate appliance, where you can just leave clean bottles in them, is fully worth the cost. With the sterilizer, the bottle must be washed first, which means hand washed given the frequency at which bottles need to be cleaned. You could stick to using a dish washer with the sanitize setting, or not bothering, but the piece of mind from having clean and sterilized bottles is worth the cost. 
 
 ## Other
-### Changing Pads
+### Changing Pads and Diapers
 * Changing pad for on-the-go: [Skip Hop Changing Pad](https://www.amazon.com/dp/B071WDDBLM?th=1) - no padding, but can carry daipers, wipes and creams.
 * At home changing pads - I've have not found the perfect changing pad, but the least bad one is [Keekaroo Peanut Changer](https://www.amazon.com/dp/B00KSW970Y).
   * I want one that gets attached to the table, and those don't seem to exist. Instead you can choose between if the strap is attached to the table or attached to the changing pad. If the strap is attached to the changing pad, baby can try to flip the changing pad off the table or drawer that it's on (which is not okay). If the strap is attached to the table, the changing pad will shift under the strap, which is slightly better, but still suboptimal.
   * You will be choosing between having a soft changing pad or having one that's easy to clean
+* [Diaper Genie](https://diapergenie.com/products/diaper-genie-complete-pail) - make sure to have a self-closing lid on the diaper pail
+* [Costco Huggies+](https://www.costco.com/p/-/huggies-plus-diapers-size-newborn/4000222596?langId=-1) - Costco seems to have the extra absorbant version of Huggies diapers
+
+The diaper bag turned out to be unimportant - any backpack will do.
  
 ### Crib
-[Cribs are regulated](https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1219). Read up on the latest safety standards for cribs, and then buy a crib accordingly. I bought the [Nestig Wave Crib](https://www.nestig.com/products/the-wave-crib), and it has been great for expandability as my baby grew.
+[Cribs are regulated](https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1219). Read up on the latest safety standards for cribs (which surprisingly get updated periodically), and then buy a crib accordingly. The details that matter and general form factor is the same because of regulations.
 
-Try renting a [SNOO Smart Sleeper](https://www.happiestbaby.com/products/snoo-rental). It's a smart crib that automatically shushes and rocks your baby, but requires that your baby is swaddled using their sleep sacks. It worked great for our baby, but not all babies love it in the same way. Therefore, rent instead of buy. The SNOO is based on the ideas in [The Happiest Baby on the Block by Dr Harvey Karp](https://www.amazon.com/dp/0553393235), and reading the book was helpful.
+I bought the [Nestig Wave Crib](https://www.nestig.com/products/the-wave-crib), and it has been great for expandability as my baby grew.
+
+Try renting a [SNOO Smart Sleeper](https://www.happiestbaby.com/products/snoo-rental). It's a smart crib that automatically shushes and rocks your baby, but requires that your baby is swaddled using their sleep sacks. It worked great for our baby, but not all babies love it in the same way. Therefore, rent instead of buy, and have a mini-crib ready if your baby hates the SNOO. The SNOO is based on the ideas in [The Happiest Baby on the Block by Dr Harvey Karp](https://www.amazon.com/dp/0553393235), and reading the book was helpful.
+
+### Pack and Play
+For traveling, the [Guava Family Travel Crib](https://www.amazon.com/dp/B00AKKDSNG) ended up being the best, portable, semi-comfortable solution for a pack-and-play.
+
+For home, we use the [Uppababy Remi](https://uppababy.com/at-home/playard/remi/) as a pack-and-play. The mattress is breathable, the pack-and-play is adjustable as baby grows, but it's also heavier and harder to travel with.
+
+We ended up being very unclear on how safe pack-and-plays are for sleep. Some (but not all) are rated for sleep, and it's entirely possible that there are extra considerations that we didn't learn about.
+
+### High Chair
+Buy the [Stokke Tripp Trapp](https://www.stokke.com/USA/en-us/high-chairs/tripp-trapp/TT03.html) with the newborn high chair attachment. The newborn high chair attachment was perfect for when the baby needed to be watched while cooking. I grew up with a Tripp Trapp, and it is adaptable as the kids grow.
+
+My research said that a baby sleeping in a bouncer is a SIDS risk, and that the bouncer was generally unnecessary. If you get a baby bouncer, make sure that they are always supervised in it.
+
+### Baby carrier
+My wife likes the [Tula Explore Baby Carrier](https://babytula.com/collections/explore-baby-carrier). We ended up trying many different baby carriers, and it seems like baby needs to pick the baby carrier that she prefers most.
+
+### Toys
+I subscribed to baby toy subscriptions from [Kiwi Co Panda Crate](https://www.kiwico.com/panda) and [Lovevery Play Kits](https://lovevery.com/products/the-play-kits-the-looker), which seems to have been a good idea. The toys are generally developmentally appropriate, where a newborn goes through several key stages of pay as they start discovering the world around them.
+
+A lot of "classic" baby toys are actually for toddlers, so a lot of the toys that you get gifted will probably end up in a closet.
+
+### Baby Monitor
+I bought the [Nanit Pro Baby Monitor](https://www.nanit.com/products/nanit-pro-camera). Our use case was that Dad, Mom and Grandma all needed to be able to monitor the sleeping baby, and a WiFi-enabled smart monitor send data to phone apps allowed that to happen. The Nanit app does a really good job of summarizing baby's sleep. The con is that anyone with access would be able to watch and hear the sleeping baby, and when baby is sleeping in your bedroom, that includes hearing you too.
+
+Relatedly, the [Nanit Glo Sound Machine](https://www.nanit.com/products/nanit-sound-light) was a great investment - it can double as an audio-only baby monitor (apparently, because I haven't tried it), but more importantly, you can adjust the volume via the Nanit app. I prefer automating the sound machine and the lights, because that's on thing that you as the parent should need to think about every bed time.
+
+I never managed to get the [Owlet Dream Sock](https://owletcare.com/products/owlet-dream-sock) to work on on our home WiFi. In theory, it's a great way to keep track of how your baby is sleeping. On the other hand, I've anecdotally heard that getting too much data about how the baby is sleeping is anxiety inducing, since there's only so much a parent can do to optimize their baby's sleep. I'd recommend skipping it.
+
+The alternative is to get a local-only RF baby monitor, which can be audio-only or also do video. They are harder to hack, since the hacker needs to be in your neighborhood, but you also can't check in on if the babysitter put the baby to sleep during date night. I bought the [VTech DM221-2 Audio Baby Monitor](https://www.amazon.com/dp/B007NG5UEU) as a back-up baby monitor when my baby was transitioning into her own room (especially when she'd nap in there, but sleep overnight in our room), but they are entirely unused right now. 
+
+### Pacifiers
+Buy lots and lots of pacifiers until you find what your baby likes. My baby loves her [Bibs pacifiers](https://us.bibsworld.com/collections/pacifiers-size-1).
+
+The silicone pacifiers are generally better, because the natural rubber (latex) ones need to be periodically replaced as they break down. However, the natural rubber ones clearly give a better chew/squeeze that our baby prefers much more strongly.
+
+### Baby clothes
+As the dad, I focused on buying clothing staples, and encouraged family to buy outfits. People have a lot more fun buying cute little outfits for your baby, so if you encourage outfit shopping, you're much more likely to get baby clothes gifted to you.
+
+For generic staples like bodysuits, pants, and pajamas, you can stock up ahead. You don't know when your baby will need a give size (so don't preemptively buy holiday-specific outfits too early), but eventually they will grow into that size.
+
+For daywear, I recommend stocking up on sweatpants, footed pants, and bodysuits (in long and short sleeves) made of cotton. Babies spit up on or spill on their bodysuits all day, so you will plan on them changing clothes multiple times per day. However, they also they don't wear any given item that many times before they outgrow them, and so buying lots of cheaper cotton items is totally fine.
+
+Socks are a good idea in cold weather, but my baby did not like her socks when it was warm outside.
+
+For pajamas, bamboo rayon or bamboo viscose seems to be the best material for one-piece, double-zipper pajama. My research says that bamboo does a better job at keeping a baby comfortable in hot and cold. Patterned pajamas are better for checking a video baby monitor to see if they are breathing. Double-zipper is much easier to undo when you need to change a baby in the middle of the night, and you don't want to completely remove their pajamas first.
+
+I don't have a recommended brand at the moment. [Honest Baby Clothing](https://honestbabyclothing.com) was my preferred brand for cheap, soft, cotton bodysuits, but they are apparently stopping their online shop (or exiting the clothing business, or doing some other radical change, it's very unclear).
